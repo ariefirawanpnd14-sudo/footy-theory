@@ -1,2 +1,2 @@
-# fantastic-tribble
+# footy-theory
 Footy Theory - competition active 
